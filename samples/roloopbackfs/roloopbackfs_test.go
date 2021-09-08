@@ -25,8 +25,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jacobsa/fuse/samples"
-	"github.com/jacobsa/fuse/samples/roloopbackfs"
+	"github.com/folays/jacobsa_fuse/samples"
+	"github.com/folays/jacobsa_fuse/samples/roloopbackfs"
 	. "github.com/jacobsa/ogletest"
 )
 

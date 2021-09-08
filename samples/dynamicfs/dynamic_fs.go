@@ -10,9 +10,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jacobsa/fuse"
-	"github.com/jacobsa/fuse/fuseops"
-	"github.com/jacobsa/fuse/fuseutil"
+	"github.com/folays/jacobsa_fuse"
+	"github.com/folays/jacobsa_fuse/fuseops"
+	"github.com/folays/jacobsa_fuse/fuseutil"
 	"github.com/jacobsa/timeutil"
 )
 

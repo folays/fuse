@@ -5,7 +5,7 @@ import (
 	"flag"
 	"fmt"
 	"github.com/jacobsa/fuse"
-	"github.com/jacobsa/fuse/samples/readbenchfs"
+	"github.com/folays/jacobsa_fuse/samples/readbenchfs"
 	"log"
 	"net/http"
 	_ "net/http/pprof"
