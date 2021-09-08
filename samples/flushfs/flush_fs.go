@@ -20,9 +20,9 @@ import (
 	"os"
 	"sync"
 
-	"github.com/jacobsa/fuse"
-	"github.com/jacobsa/fuse/fuseops"
-	"github.com/jacobsa/fuse/fuseutil"
+	"github.com/folays/jacobsa_fuse"
+	"github.com/folays/jacobsa_fuse/fuseops"
+	"github.com/folays/jacobsa_fuse/fuseutil"
 )
 
 // Create a file system whose sole contents are a file named "foo" and a

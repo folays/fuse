@@ -1,4 +1,4 @@
-module github.com/jacobsa/fuse
+module github.com/folays/jacobsa_fuse
 
 go 1.16
 

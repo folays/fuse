@@ -22,8 +22,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/jacobsa/fuse"
-	"github.com/jacobsa/fuse/samples/hellofs"
+	"github.com/folays/jacobsa_fuse"
+	"github.com/folays/jacobsa_fuse/samples/hellofs"
 	"github.com/jacobsa/timeutil"
 )
 
