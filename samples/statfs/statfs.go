@@ -19,9 +19,9 @@ import (
 	"os"
 	"sync"
 
-	"github.com/jacobsa/fuse"
-	"github.com/jacobsa/fuse/fuseops"
-	"github.com/jacobsa/fuse/fuseutil"
+	"github.com/folays/jacobsa_fuse"
+	"github.com/folays/jacobsa_fuse/fuseops"
+	"github.com/folays/jacobsa_fuse/fuseutil"
 )
 
 // A file system that allows orchestrating canned responses to statfs ops, for

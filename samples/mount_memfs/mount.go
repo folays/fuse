@@ -22,7 +22,7 @@ import (
 	"strconv"
 
 	"github.com/jacobsa/fuse"
-	"github.com/jacobsa/fuse/samples/memfs"
+	"github.com/folays/jacobsa_fuse/samples/memfs"
 )
 
 var fMountPoint = flag.String("mount_point", "", "Path to mount point.")

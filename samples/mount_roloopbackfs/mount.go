@@ -20,8 +20,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/jacobsa/fuse"
-	"github.com/jacobsa/fuse/samples/roloopbackfs"
+	"github.com/folays/jacobsa_fuse"
+	"github.com/folays/jacobsa_fuse/samples/roloopbackfs"
 )
 
 var fPhysicalPath = flag.String("path", "", "Physical path to loopback.")
