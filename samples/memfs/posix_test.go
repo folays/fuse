@@ -27,7 +27,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/jacobsa/fuse/fusetesting"
+	"github.com/folays/jacobsa_fuse/fusetesting"
 	. "github.com/jacobsa/oglematchers"
 	. "github.com/jacobsa/ogletest"
 )
